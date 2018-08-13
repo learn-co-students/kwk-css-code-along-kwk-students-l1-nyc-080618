@@ -1,1 +1,45 @@
 /* add CSS class and element and selectors here */
+
+body { 
+  font-size: 100%;
+  background-color: pink;
+  
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover { color:green;
+  transition: 1s;
+}
+
+
+
+.rochelleSampleClass{
+  font-size : 200%;
+  color : green;
+  border:10px dotted red ;
+  background-color:#0DFFF9;
+}
+
+.rochelleSecondClass{
+  font-size : 200%;
+  color : green;
+  border:10px dotted red ;
+  background-color:#0DFFF9;
+  font-family:courier; 
+}
+
+.gif{
+  width: 500px;
+  height: 500px;
+}
