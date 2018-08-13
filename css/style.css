@@ -1,1 +1,19 @@
 /* add CSS class and element and selectors here */
+
+body { 
+ font-size: 100%;
+ background-color: #ffddcc 
+  
+}
+
+.adielleSampleClass{
+  font-size: 200%;
+  border: 10px dotted #ff5500;
+  background-color: #ffe6ff;
+  font-family: courier;
+}
+
+.bclass{ 
+  color: #ff5500;
+  font-size: 300%;
+}
