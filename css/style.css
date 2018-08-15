@@ -1,1 +1,15 @@
 /* add CSS class and element and selectors here */
+
+
+body {
+  font-size: 100%
+}
+
+.jonSampleClass{
+  font-size: 400%;
+  border: 7px solid #FF908A;
+  background-color: #84CBFF;
+  font-family: courier;
+  text-align:center;
+
+}
